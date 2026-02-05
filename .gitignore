@@ -1,9 +1,12 @@
 # Python & Venv
 __pycache__/
 venv/
+venv312/
+.venv/
+.venv312/
 .env
 .ipynb_checkpoints/
-
+notebooks/ingredient-1/
 # Data & Models
 data/
 models/*.pt
